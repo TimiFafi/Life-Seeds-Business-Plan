@@ -19,3 +19,23 @@ Developed a comprehensive business plan for Life Seeds, an agribusiness venture 
 - Strategic Planning
 - Competitive Analysis
 - Problem Solving
+
+## Project Files
+
+- Life Seeds Business Plan.pptx
+
+![Cover](images/cover.png)
+
+![Contents](images/contents.png)
+
+![Business Model](images/business_model.png)
+
+![Porter's 5 Analysis](images/porter's_5_Analysis.png)
+
+![SWOT Analysis](images/swot_analysis.png)
+
+![Competitive Analysis](images/competitive_analysis.png)
+
+
+
+  
