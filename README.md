@@ -21,8 +21,7 @@ Developed a comprehensive business plan for Life Seeds, an agribusiness venture 
 - Problem Solving
 
 ## Project Files
-
-- Life Seeds Business Plan.pptx
+[Life Seeds Business Plan.pptx](https://github.com/user-attachments/files/29597255/Life.Seeds.Business.Plan.pptx)
 
 ![Cover](images/cover.png)
 
