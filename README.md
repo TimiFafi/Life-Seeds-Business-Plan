@@ -6,20 +6,16 @@ Developed a comprehensive business plan for Life Seeds, an agribusiness venture 
 
 ## Project Highlights
 
--Business Model Canvas
--Market Analysis
--SWOT Analysis
--Porter's Five Forces Analysis
--Competitive Analysis
+- Business Model Canvas
+- Market Analysis
+- SWOT Analysis
+- Porter's Five Forces Analysis
+- Competitive Analysis
 
 ## Skills Demonstrated
 
--Business Analysis
-
--Market Research
-
--Strategic Planning
-
--Competitive Analysis
-
--Problem Solving
+- Business Analysis
+- Market Research
+- Strategic Planning
+- Competitive Analysis
+- Problem Solving
