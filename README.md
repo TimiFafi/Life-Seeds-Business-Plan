@@ -13,8 +13,13 @@ Developed a comprehensive business plan for Life Seeds, an agribusiness venture 
 -Competitive Analysis
 
 ## Skills Demonstrated
+
 -Business Analysis
+
 -Market Research
+
 -Strategic Planning
+
 -Competitive Analysis
+
 -Problem Solving
