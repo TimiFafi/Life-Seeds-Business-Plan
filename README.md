@@ -23,18 +23,14 @@ Developed a comprehensive business plan for Life Seeds, an agribusiness venture 
 ## Project Files
 [Life Seeds Business Plan.pptx](https://github.com/user-attachments/files/29597255/Life.Seeds.Business.Plan.pptx)
 
-![Cover](images/cover.png)
+## Business Model
+![Business Model](Project%20Screenshots/Business_Model.png)
 
-![Contents](images/contents.png)
+## SWOT Analysis
+![SWOT Analysis](Project%20Screenshots/SWOT_Analysis.png)
 
-![Business Model](images/business_model.png)
-
-![Porter's 5 Analysis](images/porter's_5_Analysis.png)
-
-![SWOT Analysis](images/swot_analysis.png)
-
-![Competitive Analysis](images/competitive_analysis.png)
-
+## Competitive Analysis
+![Competitive Analysis](Project%20Screenshots/Competitive_Analysis.png)
 
 
   
