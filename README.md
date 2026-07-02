@@ -27,10 +27,10 @@ Developed a comprehensive business plan for Life Seeds, an agribusiness venture 
 ![Business Model](Project%20Screenshots/Business%20Model.png)
 
 ## SWOT Analysis
-![SWOT Analysis](Project%20Screenshots/SWOT_Analysis.png)
+![SWOT Analysis](Project%20Screenshots/SWOT%20Analysis.png)
 
 ## Competitive Analysis
-![Competitive Analysis](Project%20Screenshots/Competitive_Analysis.png)
+![Competitive Analysis](Project%20Screenshots/Competitive%20Analysis.png)
 
 
   
